@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>HEllo.........MAHESH...!!!! </h1>
+<h1>Hello </h1>
 
 <?php
 echo "Hello World!";
